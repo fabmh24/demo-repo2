@@ -12,7 +12,7 @@
 	<header>
 		<nav>
 			<ul>
-				Suscribete al canal Coder</li>
+				Suscribete al canal Coders</li>
 			</ul>
 		</nav>
 	</header>
