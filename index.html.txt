@@ -12,7 +12,7 @@
 	<header>
 		<nav>
 			<ul>
-				Mitocodemenu</li>
+				Suscribete al canal Coder</li>
 			</ul>
 		</nav>
 	</header>
